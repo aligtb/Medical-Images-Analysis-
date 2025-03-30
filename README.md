@@ -43,7 +43,7 @@ Welcome to **Medical Images Analysis**! 🧬 This repository is dedicated to dev
 To set up the project, follow these steps:
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/medical-images-analysis.git
+git clone https://github.com/aligtb/medical-images-analysis.git
 
 # Navigate to the project directory
 cd medical-images-analysis
